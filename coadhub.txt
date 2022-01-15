@@ -5,3 +5,4 @@ friday
 saturday
 sunday
 monday
+today is my first day of work
